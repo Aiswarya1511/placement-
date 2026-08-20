@@ -10,7 +10,6 @@ public static void main(String[] args){
    System.out.print("Let's learn 'JAVA' together with Aishu");
 }
 }
-
 2.Problem Statement:
 Print the following output : If you want to shine like a "Sun",first burn like a "Sun".
 Input Format:
